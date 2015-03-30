@@ -317,7 +317,7 @@ We're:
 *   sharing our research and the results of our usability studies
 *   reporting back regularly on the issues users are raising
 *   open-sourcing our code — it's [free for anyone to use](https://webtoolkit.govt.nz/blog/2014/02/open-source-for-beginners/ "free for anyone to use")
-*   publishing as much content as we can using a Creative Commons [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/nz/ "CC BY 3.0) copyright licence, so anyone can reuse it
+*   publishing as much content as we can using a Creative Commons [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/nz/ "CC BY 3.0") copyright licence, so anyone can reuse it
 *   working on improving our [API](https://www.govt.nz/about/api/ "API") to make it easier to share government information both across agencies and with the public
 
 **Yes**
