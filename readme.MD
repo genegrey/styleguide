@@ -260,88 +260,88 @@ In some bulleted lists, it may not always make sense to have the list of content
 #### Examples:
 **Yes**
 
->Your tax rate might change if you’re being paid a lump sum. You should make sure that you have paid the correct tax by using IRD's calculator.
+Your tax rate might change if you’re being paid a lump sum. You should make sure that you have paid the correct tax by using IRD's calculator.
 
->[IRD tax on annual income calculator](http://www.ird.govt.nz/calculators/tool-name/tools-t/calculator-tax-rate.html?id=homepage "IRD tax on annual income calculator")
+[IRD tax on annual income calculator](http://www.ird.govt.nz/calculators/tool-name/tools-t/calculator-tax-rate.html?id=homepage "IRD tax on annual income calculator")
 
 **No**
 
->Your tax rate might change if you’re being paid a lump sum. You should make sure that you have paid the correct tax by using [the IRD 'tax on annual income'](http://www.ird.govt.nz/calculators/tool-name/tools-t/calculator-tax-rate.html?id=homepage "the IRD 'tax on annual income'")  calculator.
+Your tax rate might change if you’re being paid a lump sum. You should make sure that you have paid the correct tax by using [the IRD 'tax on annual income'](http://www.ird.govt.nz/calculators/tool-name/tools-t/calculator-tax-rate.html?id=homepage "the IRD 'tax on annual income'")  calculator.
 
 **Yes**
 
->MPs represent you in Parliament. You have the right to contact an MP to discuss any issue.
+MPs represent you in Parliament. You have the right to contact an MP to discuss any issue.
 
->You can contact MPs at Parliament or at their out-of-Parliament or local offices.
-*   >[Find your electorate](http://www.elections.org.nz/mapping/ "Find your electorate") 
-*   >[List of current members of Parliament](http://www.parliament.nz/en-NZ/MPP/MPs/MPs/ "List of current members of Parliament")
-*   >[Contact an MP](http://www.parliament.nz/en-nz/about-parliament/get-involved/contact/00PlibHvYrSayContact1/contact-an-mp "Contact an MP") 
+You can contact MPs at Parliament or at their out-of-Parliament or local offices.
+*   [Find your electorate](http://www.elections.org.nz/mapping/ "Find your electorate") 
+*   [List of current members of Parliament](http://www.parliament.nz/en-NZ/MPP/MPs/MPs/ "List of current members of Parliament")
+*   [Contact an MP](http://www.parliament.nz/en-nz/about-parliament/get-involved/contact/00PlibHvYrSayContact1/contact-an-mp "Contact an MP") 
 
 **Yes-ish**
 
->MPs represent you in Parliament. You have the right to contact an MP to discuss any issue.
+MPs represent you in Parliament. You have the right to contact an MP to discuss any issue.
 
->You can contact MPs at Parliament or at their out-of-Parliament or local offices.
+You can contact MPs at Parliament or at their out-of-Parliament or local offices.
 
->[Find your electorate](http://www.elections.org.nz/mapping/ "Find your electorate")
+[Find your electorate](http://www.elections.org.nz/mapping/ "Find your electorate")
 
->[List of current members of Parliament](http://www.parliament.nz/en-NZ/MPP/MPs/MPs/ "List of current members of Parliament")
+[List of current members of Parliament](http://www.parliament.nz/en-NZ/MPP/MPs/MPs/ "List of current members of Parliament")
 
->[Contact an MP](http://www.parliament.nz/en-nz/about-parliament/get-involved/contact/00PlibHvYrSayContact1/contact-an-mp "Contact an MP") 
-
-**No**
-
->MPs represent you in Parliament. You have the right to contact an MP to discuss any issue.
-
->You can contact MPs at Parliament or at their out-of-Parliament or local offices.
-*   > Find your [electorate](http://www.elections.org.nz/mapping/ "electorate") 
-*   > List of [current members](http://www.parliament.nz/en-NZ/MPP/MPs/MPs/ "current members") of Parliament
-*   > Contact [an MP](http://www.parliament.nz/en-nz/about-parliament/get-involved/contact/00PlibHvYrSayContact1/contact-an-mp "an MP") 
-
-**Yes**
-
->We're:
-*   > sharing our research and the results of our usability studies
-*   > reporting back regularly on the issues users are raising
-*   > open-sourcing our code — it's free for anyone to use
-*   > publishing as much content as we can using a Creative Commons CC BY 3.0 copyright licence, so anyone can reuse it
-*   > working on improving our API to make it easier to share government information both across agencies and with the public
-
->[Read our blog post about open-sourcing our code](https://webtoolkit.govt.nz/blog/2014/02/open-source-for-beginners/ "Read our blog post about open-sourcing our code")
-
->[Our API](https://www.govt.nz/about/api/ "Our API")
+[Contact an MP](http://www.parliament.nz/en-nz/about-parliament/get-involved/contact/00PlibHvYrSayContact1/contact-an-mp "Contact an MP") 
 
 **No**
 
->We're:
-*   > sharing our research and the results of our usability studies
-*   > reporting back regularly on the issues users are raising
-*   > open-sourcing our code — it's [free for anyone to use](https://webtoolkit.govt.nz/blog/2014/02/open-source-for-beginners/ "free for anyone to use")
-*   > publishing as much content as we can using a Creative Commons [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/nz/ "CC BY 3.0) copyright licence, so anyone can reuse it
-*   > working on improving our [API](https://www.govt.nz/about/api/ "API") to make it easier to share government information both across agencies and with the public
+MPs represent you in Parliament. You have the right to contact an MP to discuss any issue.
+
+You can contact MPs at Parliament or at their out-of-Parliament or local offices.
+*   Find your [electorate](http://www.elections.org.nz/mapping/ "electorate") 
+*   List of [current members](http://www.parliament.nz/en-NZ/MPP/MPs/MPs/ "current members") of Parliament
+*   Contact [an MP](http://www.parliament.nz/en-nz/about-parliament/get-involved/contact/00PlibHvYrSayContact1/contact-an-mp "an MP") 
 
 **Yes**
 
->If you don't meet the criteria, you might be able to apply for special consideration if:
-*    >you can't learn English
-*    >you haven't been in NZ for enough days in the last 5 years
+We're:
+*   sharing our research and the results of our usability studies
+*   reporting back regularly on the issues users are raising
+*   open-sourcing our code — it's free for anyone to use
+*   publishing as much content as we can using a Creative Commons CC BY 3.0 copyright licence, so anyone can reuse it
+*   working on improving our API to make it easier to share government information both across agencies and with the public
+
+[Read our blog post about open-sourcing our code](https://webtoolkit.govt.nz/blog/2014/02/open-source-for-beginners/ "Read our blog post about open-sourcing our code")
+
+[Our API](https://www.govt.nz/about/api/ "Our API")
+
+**No**
+
+We're:
+*   sharing our research and the results of our usability studies
+*   reporting back regularly on the issues users are raising
+*   open-sourcing our code — it's [free for anyone to use](https://webtoolkit.govt.nz/blog/2014/02/open-source-for-beginners/ "free for anyone to use")
+*   publishing as much content as we can using a Creative Commons [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/nz/ "CC BY 3.0) copyright licence, so anyone can reuse it
+*   working on improving our [API](https://www.govt.nz/about/api/ "API") to make it easier to share government information both across agencies and with the public
+
+**Yes**
+
+If you don't meet the criteria, you might be able to apply for special consideration if:
+*    you can't learn English
+*    you haven't been in NZ for enough days in the last 5 years
     * but you've been here for 450 days in the last 20 months
-*    >you can’t show you intend to keep living here
-*    >you don't meet the good character requirements, but you have evidence that you think proves you should be granted citizenship anyway
-*    >you have exceptional circumstances relating to a recent conviction or time in prison, or
-*    >you can prove that making you a citizen would benefit NZ.
+*    you can’t show you intend to keep living here
+*    you don't meet the good character requirements, but you have evidence that you think proves you should be granted citizenship anyway
+*    you have exceptional circumstances relating to a recent conviction or time in prison, or
+*    you can prove that making you a citizen would benefit NZ.
 
->*[note: the links here were removed entirely as they pointed to pages which pointed back to this one – so were circular]*
+*[note: the links here were removed entirely as they pointed to pages which pointed back to this one – so were circular]*
 
 **No**
 
->If you don't meet the criteria, you might be able to apply for special consideration if:
-*   > you [can't learn English](https://www.govt.nz/browse/citizenship-and-immigration/citizenship/become-an-nz-citizen/if-english-isnt-your-first-language/ "can't learn English")
-*   > you [haven't been in NZ for enough days in the last 5 years](https://www.govt.nz/browse/citizenship-and-immigration/citizenship/become-an-nz-citizen/check-you-meet-the-residency-rules/ "haven't been in NZ for enough days in the last 5 years") — but you've been here for 450 days in the last 20 months
-*   > you can't clearly show that you [intend to keep living here](https://www.govt.nz/browse/citizenship-and-immigration/citizenship/become-an-nz-citizen/check-you-meet-the-residency-rules/ "intend to keep living here")
-*   > you [don't meet the good character requirements](https://www.govt.nz/browse/citizenship-and-immigration/citizenship/become-an-nz-citizen/prove-youre-of-good-character/ "don't meet the good character requirements"), but you have evidence that you think proves you should be granted citizenship anyway
-*   > you have exceptional circumstances relating to a [recent conviction or time in prison](https://www.govt.nz/browse/citizenship-and-immigration/citizenship/become-an-nz-citizen/prove-youre-of-good-character/, "recent conviction or time in prison), or
-*   > you can prove that making you a citizen would benefit NZ.
+If you don't meet the criteria, you might be able to apply for special consideration if:
+*   you [can't learn English](https://www.govt.nz/browse/citizenship-and-immigration/citizenship/become-an-nz-citizen/if-english-isnt-your-first-language/ "can't learn English")
+*   you [haven't been in NZ for enough days in the last 5 years](https://www.govt.nz/browse/citizenship-and-immigration/citizenship/become-an-nz-citizen/check-you-meet-the-residency-rules/ "haven't been in NZ for enough days in the last 5 years") — but you've been here for 450 days in the last 20 months
+*   you can't clearly show that you [intend to keep living here](https://www.govt.nz/browse/citizenship-and-immigration/citizenship/become-an-nz-citizen/check-you-meet-the-residency-rules/ "intend to keep living here")
+*   you [don't meet the good character requirements](https://www.govt.nz/browse/citizenship-and-immigration/citizenship/become-an-nz-citizen/prove-youre-of-good-character/ "don't meet the good character requirements"), but you have evidence that you think proves you should be granted citizenship anyway
+*   you have exceptional circumstances relating to a [recent conviction or time in prison](https://www.govt.nz/browse/citizenship-and-immigration/citizenship/become-an-nz-citizen/prove-youre-of-good-character/, "recent conviction or time in prison"), or
+*   you can prove that making you a citizen would benefit NZ.
 
 
 ### Links to email addresses
@@ -356,18 +356,18 @@ We don’t include any punctuation that’s not part of the email address, or ad
 
 **Good:**
 
->For more information about Govt.nz and our work in this area email [Name of Person].
+For more information about Govt.nz and our work in this area email [Name of Person].
 
-><name.lastname@department.govt.nz>
+<name.lastname@department.govt.nz>
 
 Or: 
 
->For more information about Govt.nz and our work in this area email:
+For more information about Govt.nz and our work in this area email:
 
-><name.lastname@department.govt.nz>.
+<name.lastname@department.govt.nz>.
 
 **Bad:** 
->For more information about Govt.nz and our work in this area email [Name of Person](<name.lastname@department.govt.nz> "Name of Person").
+For more information about Govt.nz and our work in this area email [Name of Person](<name.lastname@department.govt.nz> "Name of Person").
 
 ####The dreaded space
 
@@ -387,13 +387,13 @@ All images need to have a file name that describes or names them.
 **Good:**
  
 
->Content doge.png
+Content doge.png
 
 
 **Bad:**
  
 
->IMG_0206.jpg
+IMG_0206.jpg
 
 All images and files need to be given a file title, when uploaded, that describes or names them. 
 * 'PowerPoint presentation' and 'Print' are not acceptable. 
