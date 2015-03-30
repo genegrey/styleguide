@@ -437,7 +437,7 @@ When possible, alt text for charts and graphics should:
 * describe the type of chart and provide an over view of the data or graphical elements 
 * describe key trends or features. 
 
-[Read the full accessibility guidelines on the New Zealand Government Web Toolkit](https://webtoolkit.govt.nz/ "Read the full accessibility guidelines on the New Zealand Government Web Toolkit)
+[Read the full accessibility guidelines on the New Zealand Government Web Toolkit](https://webtoolkit.govt.nz/)
 
 ##Section 4: Language we don’t use
 We don't say:
