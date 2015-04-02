@@ -146,12 +146,14 @@ We use the Oxford comma if it makes a sentence clearer or more understandable, o
 
 #### Examples:
 This includes things like the family home, cars, furniture, and money like superannuation and wages.
+
 Or:
+
 They must:
 * be 16 or older, and
 * have known you for at least 6 months, or have seen your government issued photo ID (eg your driver licence).
 
-Straight vs curly quotation marks
+### Straight vs curly quotation marks
 We:
 * do use curly double quotation marks, “ ”
 * don’t use straight double quotation marks, " "
@@ -457,7 +459,7 @@ We’ll also avoid business-speak and jargon, like:
 * agenda — unless it's for a meeting
 * collaborate — we’ll use ‘working with’
 * combating
-* commit/pledge - we need to be more specific: we’re either doing something or we’re not)
+* commit/pledge - we need to be more specific: we’re either doing something or we’re not
 * countering
 * deliver — pizzas, post and services are delivered, not abstract concepts like ‘improvements’ or ‘priorities’
 * deploy — unless it's military or software
