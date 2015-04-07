@@ -63,9 +63,9 @@ We:
 * are conversational — not stuffy or formal
 * are gender neutral wherever possible
 * call organisations and services what the general public call them, eg:
-* NZ Super
-* GST
-* IRD.
+    * NZ Super
+    * GST
+    * IRD.
 * explain programme names, eg ‘Working for Families is money for working families’
 * reflect your journey, not the internal business process.
 
@@ -170,7 +170,7 @@ Em dashes:
 * are written as &amp;mdash; in HTML.
 
 En dashes:
-* are use to show ranges, eg 1-2, or 4:30-6:30
+* are used to show ranges, eg 1-2, or 4:30-6:30
 * are written as &amp;ndash; in HTML.
 
 ### Measurement
